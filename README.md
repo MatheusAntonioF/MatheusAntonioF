@@ -14,6 +14,6 @@
 - React Native
 - Nodejs
 
-<a href="https://www.linkedin.com/in/matheus-ant%C3%B4nio-377698180/"><img src="https://img.shields.io/static/v1?label=Linkedin&message=Matheus&color=7159c1&style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/matheus-ant%C3%B4nio-377698180/" target="_blank"><img src="https://img.shields.io/static/v1?label=Linkedin&message=Matheus&color=7159c1&style=for-the-badge&logo=linkedin"/>
 </a>
 
