@@ -14,17 +14,6 @@
 - React Native
 - Nodejs
 
-##### I have experience with:
-- ReactJS
-- React Native
-- SCSS
-- Nodejs
-- PHP
-- Java
-- Postgres
-- MySql
-- Docker
-
 ![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Matheus&color=7159c1&style=for-the-badge&logo=linkedin)
 
 
